@@ -1,0 +1,67 @@
+body{
+    font-family: cursive;
+    background: url(award1.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    width: 500px;
+    height: 700px;
+    color:darkgreen;
+    padding-bottom: 5px;
+    ma
+}
+
+.back{
+    margin-bottom: 15px;
+}
+#about {
+   
+    background-color:transparent;
+    text-align: center;
+    color: cyan;
+    justify-content: center;
+    width: 500px;
+     padding-top: 80px;
+   
+}
+
+.container {
+    
+    color: cyan;
+    text-align: center;
+    width: 400px;
+   margin-right: -5px;
+   margin-bottom: 70px;
+   text-align: justify;
+}
+
+.about-content {
+    background-color:transparent;
+    border-radius: 10px;
+    color:lightred;
+     margin-right: -500px;
+
+
+}
+
+.about-content p {
+    margin-bottom: -500px;
+   
+}
+
+.about-content p:last-child {
+    margin-bottom: 0;
+}
+
+.about-content h2 {
+    margin-bottom: 20px;
+    color:cyan;
+    text-align: center;
+}
+
+.about-content p:first-of-type {
+    font-size: 18px;
+}
+
+.about-content p:last-of-type {
+    font-size: 16px;
+}

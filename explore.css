@@ -1,0 +1,64 @@
+body {
+    font-family:cursive;
+    margin: 0;
+    padding: 0;
+    background: url(award6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+     width: 500px;
+     height: 700px;
+}
+
+.hero {
+    
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color:darkmagenta;
+    margin-right: -500px;
+}
+.don{
+    font-size: 30px;
+    text-decoration: none;
+}
+.hero-content {
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color:cyan;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    text-decoration: none; 
+    color:lightcyan;
+}
+
+.explore-options {
+    margin-top: 30px;
+}
+
+.btn {
+    display: block;
+    width: 250px;
+    padding: 15px;
+    margin: 10px auto;
+    background-color: #ff6600;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #e65100;
+}

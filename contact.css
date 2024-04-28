@@ -1,0 +1,64 @@
+body{
+    font-family: cursive;
+    background: url(award1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    width: 500px;
+    height: 600px;
+
+}
+#contact {
+    padding: 50px 0;
+    
+    text-align: center;
+}
+
+
+.container {
+    width: 100%;
+    margin: auto;
+    color: cyan;
+    align-items: center;
+    margin-right: -280px;
+
+}
+.back{
+    text-decoration: none;
+    font-size: 30px;
+}
+.h1{
+    align-content: center;
+    color: cyan;
+}
+
+.contact-content {
+    background-color:lightcyan;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    background-position: center;
+    align-content: center;
+    float:right;
+}
+
+.contact-content p {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.contact-content p:last-child {
+    margin-bottom: 0;
+}
+
+.contact-content h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.contact-content p:first-of-type {
+    font-size: 18px;
+}
+
+.contact-content p:last-of-type {
+    font-size: 16px;
+}
